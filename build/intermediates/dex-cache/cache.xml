@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1bc298924b590849ba44d7a6415be2c8cf33a4f5">
+        <dex dex="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_299d3d756cfa00b6df93d702d76da3ba48804a5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ff8c3986e6876b5d6aa1b67c56aecb574b6b728">
+        <dex dex="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_15dc44e5e91bc1aef690b637f2f512f6ffa9c0d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="70f08c3632e12ee4d8c9afa4b486482674bf7266">
+        <dex dex="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ffc3c7a6aeef159218db6a2d3ff89f7a6758ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bef13fcdae46a8c6fe4ee0d8534aad7c69bf4577">
+        <dex dex="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2f6e82d24ff5419a214bed720fcf7e9ae169d0e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_7ca15f78dad50ec2d0f3379ee802d647f421d5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="/Users/luokangyu/Desktop/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_26721f8969ca004e528d9798635bca7c91f295cc/classes.dex" />
+    </item>
+
+</items>

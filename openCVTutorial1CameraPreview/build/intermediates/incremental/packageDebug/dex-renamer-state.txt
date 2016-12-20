@@ -1,0 +1,7 @@
+#Tue Dec 20 11:15:21 CST 2016
+base.0=/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_299d3d756cfa00b6df93d702d76da3ba48804a5d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_15dc44e5e91bc1aef690b637f2f512f6ffa9c0d2/classes.dex
+base.1=/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_15dc44e5e91bc1aef690b637f2f512f6ffa9c0d2
+file.0=/Users/luokangyu/libgdxProjects/Camera_Preview_AR-master/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_299d3d756cfa00b6df93d702d76da3ba48804a5d/classes.dex
